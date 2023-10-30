@@ -41,8 +41,8 @@ header{
 }
 
 #header-image-border img{
-  -ms-transform: translateY(9%);
-  transform: translateY(9%);
+  -ms-transform: translateY(4%);
+  transform: translateY(4%);
 }
 
 /*
