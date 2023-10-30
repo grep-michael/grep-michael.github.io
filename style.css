@@ -10,7 +10,7 @@
   background: transparent;
 }
 html {
-  background-image: url("media/imgs/background.png");
+  background-image: url("./media/imgs/background.png");
   margin: 0px;
   padding: 0px;
   min-height: 100vh;
